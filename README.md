@@ -14,6 +14,7 @@ In this repository you will find my answers to [Codility lessons](https://codili
 
 #### Lesson 3: [Prefix Sums][lesson3] - [Site](https://codility.com/programmers/lessons/3)
 * [PassingCars] - [Take Test](https://codility.com/demo/take-sample-test/passing_cars)
+* [CountDiv] - [Take Test](https://codility.com/demo/take-sample-test/count_div)
 
 
 [lesson1]: https://github.com/Towanime/Codility/tree/master/src/Lesson1
@@ -31,3 +32,4 @@ In this repository you will find my answers to [Codility lessons](https://codili
 [MissingInteger]: https://github.com/Towanime/Codility/blob/master/src/Lesson2/MissingInteger.php
 
 [PassingCars]: https://github.com/Towanime/Codility/blob/master/src/Lesson3/PassingCars.php
+[CountDiv]: https://github.com/Towanime/Codility/blob/master/src/Lesson3/CountDiv.php
